@@ -1,0 +1,16 @@
+/**
+ * Notes: 错误代码定义
+ */
+module.exports = {
+	SUCC: 200,
+	SVR: 500,
+	LOGIC: 1600,
+	DATA: 1301,
+	HEADER: 1302,
+	NOT_USER: 1303,
+	USER_EXCEPTION: 1304,
+	MUST_LOGIN: 1305,
+	USER_CHECK: 1306,
+
+	ADMIN_ERROR: 2001
+}
